@@ -1,0 +1,24 @@
+{
+  "name": "node_weather_app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshiqCSEWorld/Node_Weather_App.git"
+  },
+  "author": "Ashik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshiqCSEWorld/Node_Weather_App/issues"
+  },
+  "homepage": "https://github.com/AshiqCSEWorld/Node_Weather_App#readme",
+  "dependencies": {
+    "request": "^2.83.0",
+    "yargs": "^4.8.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
